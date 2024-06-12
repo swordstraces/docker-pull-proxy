@@ -1,2 +1,1 @@
 lobehub/lobe-chat:latest registry.cn-hangzhou.aliyuncs.com/docker_mirror_phantasy/lobehub/lobe-chat:latest
-nyanmisaka/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/docker_mirror_phantasy/nyanmisaka/jellyfin:latest
