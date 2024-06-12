@@ -1,2 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
 lobehub/lobe-chat:latest registry.cn-hangzhou.aliyuncs.com/docker_mirror_phantasy/lobehub/lobe-chat:latest
