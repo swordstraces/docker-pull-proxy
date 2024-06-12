@@ -1,1 +1,2 @@
 lobehub/lobe-chat:latest registry.cn-hangzhou.aliyuncs.com/docker_mirror_phantasy/lobehub/lobe-chat:latest
+ 
